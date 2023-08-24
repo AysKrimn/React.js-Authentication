@@ -1,3 +1,3 @@
 # React.js Authentication
 
-# React.js ile yapılan basit bir authentication uygulaması. Veriler memory ve localstorage de tutulmaktadır.
+<h3>React.js ile yapılan basit bir authentication uygulaması. Veriler memory ve localstorage de tutulmaktadır</h3>
